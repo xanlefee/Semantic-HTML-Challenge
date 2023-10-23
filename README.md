@@ -4,7 +4,7 @@
 
 
 
-DEPLOY LINK
+[DEPLOY LINK](https://xanlefee.github.io/Semantic-HTML-Challenge/)
 
 
 This project swaps non-semantic HTML for semantic HTML in order to make the website more accessible. 
