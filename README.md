@@ -13,7 +13,7 @@ This project highlights the importance of semantic HTML in optimising a website 
 
 
 Some issues along the way included changing the divs to semantic elements without compromising the layout of the page. 
-Through trial and error, I managed to keep the imformation layout as intended and used comments to aid greater clarity in the index. 
+Through trial and error, I managed to keep the information layout as intended and used comments to aid greater clarity in the index. 
 
 ## Installation
 
